@@ -43,3 +43,5 @@ Binary heap:
 - It should display each step in nodes with different colors, using the 16-bit RGB system (example #1296F0). The colors of the nodes should change from dark to light shades, depending on the order of the traversal. Each node when visited should receive a unique color that visually reflects the order of the traversal.
 
 👉🏻 Note: Use a stack and a queue, NOT recursion
+
+![Screenshoot](./images/dfs.jpg)
