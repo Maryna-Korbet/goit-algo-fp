@@ -23,3 +23,10 @@ Startup example: python task_2.py --level 8
 - Develop Dijkstra's algorithm for finding shortest paths in a weighted graph using a binary heap. The task involves creating a graph, using a pyramid to optimize the selection of vertices, and computing the shortest paths from the initial vertex to all others.
 
 ![Screenshoot](./images/graph.jpg)
+
+**Task 4: Visualization of the pyramid**:
+
+- Build a function that will render a binary heap.
+
+Binary tree:
+![Screenshoot](./images/draw_tree.jpg)
