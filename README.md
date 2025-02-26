@@ -16,4 +16,8 @@ This project includes several tasks related to data structures, sorting, recursi
 
 ![Screenshoot](./images/tree.jpg)
 
-Startup example: python task_2.py --level 6
+Startup example: python task_2.py --level 8
+
+**Task 3: Trees, Dijkstra's algorithm**:
+
+- Develop Dijkstra's algorithm for finding shortest paths in a weighted graph using a binary heap. The task involves creating a graph, using a pyramid to optimize the selection of vertices, and computing the shortest paths from the initial vertex to all others.
