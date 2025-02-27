@@ -47,6 +47,7 @@ Binary heap:
 <img src="./images/dfs.jpg" width="400" />
 
 **Task 6: Greedy algorithms and dynamic programming**:
+<img src="./images/dfs.jpg" width="400" />
 
 - Need to write a Python program that uses two approaches—a greedy algorithm and a dynamic programming algorithm—to solve the problem of choosing a food with the highest total calorie content within a limited budget.
 
@@ -64,3 +65,25 @@ items = {
 Develop a greedy_algorithm function that selects dishes that maximize the calorie-to-cost ratio within a given budget.
 
 To implement a dynamic programming algorithm, create a dynamic_programming function that calculates the optimal set of dishes to maximize calorie content within a given budget.
+
+**Task 7: Using the Monte Carlo method**:
+
+- You are required to write a Python program that simulates a large number of dice rolls, calculates the sums of the numbers that appear on the dice, and determines the probability of each possible sum.
+
+- Create a simulation where two dice are rolled a large number of times. For each roll, determine the sum of the numbers that appear on both dice. Count how many times each possible sum (from 2 to 12) appears in the simulation. Using this data, calculate the probability of each sum.
+
+- Based on the simulations, create a table or graph that displays the probabilities of each sum, as determined by the Monte Carlo method.
+
+- The table of probabilities of the sums when rolling two dice looks like this. Translations
+
+<img src="./images/table.jpg" width="200" />
+
+- Compare the results obtained using the Monte Carlo method with the analytical calculations given in the table above.
+
+**Results task 7**:
+
+- The Monte Carlo method approximates the theoretical probabilities well with a sufficiently large number of trials.
+
+- The experimental results confirm that the most probable sum is 7, and the least probable are 2 and 12.
+
+- The deviations between the simulation and analytical data decrease as the number of tosses increases
