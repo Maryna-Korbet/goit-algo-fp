@@ -47,7 +47,6 @@ Binary heap:
 <img src="./images/dfs.jpg" width="400" />
 
 **Task 6: Greedy algorithms and dynamic programming**:
-<img src="./images/dfs.jpg" width="400" />
 
 - Need to write a Python program that uses two approaches—a greedy algorithm and a dynamic programming algorithm—to solve the problem of choosing a food with the highest total calorie content within a limited budget.
 
