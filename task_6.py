@@ -1,7 +1,6 @@
 from itertools import permutations
 from math import sqrt
 
-# Визначити координати для 5 міст
 items = {
     "pizza": {"cost": 50, "calories": 300},
     "hamburger": {"cost": 40, "calories": 250},

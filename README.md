@@ -74,10 +74,6 @@ To implement a dynamic programming algorithm, create a dynamic_programming funct
 
 - Based on the simulations, create a table or graph that displays the probabilities of each sum, as determined by the Monte Carlo method.
 
-- The table of probabilities of the sums when rolling two dice looks like this. Translations
-
-<img src="./images/table.jpg" width="200" />
-
 - Compare the results obtained using the Monte Carlo method with the analytical calculations given in the table above.
 
 **Results task 7**:
