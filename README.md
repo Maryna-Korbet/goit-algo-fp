@@ -44,4 +44,23 @@ Binary heap:
 
 👉🏻 Note: Use a stack and a queue, NOT recursion
 
-<img src="./images/dfs.jpg" width="450" />
+<img src="./images/dfs.jpg" width="400" />
+
+**Task 6: Greedy algorithms and dynamic programming**:
+
+- Need to write a Python program that uses two approaches—a greedy algorithm and a dynamic programming algorithm—to solve the problem of choosing a food with the highest total calorie content within a limited budget.
+
+- Each type of food has a specified cost and calorie content. The food data is represented as a dictionary, where the key is the name of the dish and the value is a dictionary with the cost and calorie content.
+
+items = {
+"pizza": {"cost": 50, "calories": 300},
+"hamburger": {"cost": 40, "calories": 250},
+"hot-dog": {"cost": 30, "calories": 200},
+"pepsi": {"cost": 10, "calories": 100},
+"cola": {"cost": 15, "calories": 220},
+"potato": {"cost": 25, "calories": 350}
+}
+
+Develop a greedy_algorithm function that selects dishes that maximize the calorie-to-cost ratio within a given budget.
+
+To implement a dynamic programming algorithm, create a dynamic_programming function that calculates the optimal set of dishes to maximize calorie content within a given budget.
